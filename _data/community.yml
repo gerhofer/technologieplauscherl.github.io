@@ -721,3 +721,12 @@
       location: "Quartier A - Amstetten"
       date: 2019-05-16
       link: https://devtreff.io/
+-
+  id: women-and-code
+  name: "Women&&Code"
+  events:
+    -
+      name: "Women&&Code - JavaScript Studygroup"
+      location: "CODERS.BAY / Grand Garage"
+      date: 2019-04-17
+      link: https://www.meetup.com/WomenAndCode/events/260081596/
